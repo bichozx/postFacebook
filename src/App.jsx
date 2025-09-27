@@ -1,13 +1,16 @@
 import './App.css'
 
-import Post from './page/Post'
+import Roters from './router/Roters'
 
 function App() {
   
 
   return (
     <>
-      <Post/>
+    <Roters/>
+      
+      
+      
     </>
   )
 }
